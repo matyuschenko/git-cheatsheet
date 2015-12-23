@@ -1,6 +1,12 @@
 # git-cheatsheet
 :octocat: Useful GIT commands
 
+#####MAIN
+git status
+git add 2015/dec31/dec31/main.js
+git commit -m "Bug fixed"
+git push -u origin december-31-mmaks-local
+
 #####BASIC
 git init<br />
 git status<br />
