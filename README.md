@@ -6,6 +6,9 @@ git status<br />
 git add 2015/dec31/dec31/main.js<br />
 git commit -m "Bug fixed"<br />
 git push -u origin december-31-mmaks-local<br />
+(make pull request on web)<br />
+(after pull request accepted)<br />
+git pull (== git fetch; gir merge origin/master)<br />
 
 #####BASIC
 git init<br />
