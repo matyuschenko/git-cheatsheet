@@ -8,6 +8,7 @@ git commit -m "Bug fixed"<br />
 git push -u origin december-31-mmaks-local<br />
 (make pull request on web)<br />
 (after pull request accepted)<br />
+git checkout master (== git fetch; gir merge origin/master)<br />
 git pull (== git fetch; gir merge origin/master)<br />
 
 #####BASIC
